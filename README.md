@@ -10,5 +10,5 @@
 <BR>
 <h3>Certificados 🎓</h3>
 <BR>
-<h3>Contato </h3>
+<h3>Contato 📞</h3>
 
