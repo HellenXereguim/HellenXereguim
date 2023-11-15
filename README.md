@@ -1,3 +1,4 @@
+ <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/HellenXereguim/HellenXereguim/blob/main/Oi!.png" />
 <h1>Bem vindos ao meu portifólio! 👋</h1> 
 <BR>
 <h2>Habilidades 🎯</h2>
