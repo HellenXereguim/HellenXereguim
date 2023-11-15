@@ -1,6 +1,7 @@
 <h1>Bem vindos ao meu portifólio! 👋</h1> 
 
-##Habilidades 🎯
+
+<h2>Habilidades 🎯</h2>
 
 Here are some ideas to get you started:
 
