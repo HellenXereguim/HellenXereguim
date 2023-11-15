@@ -8,4 +8,8 @@
 <img align="center" alt="Excel" height="30" width="180" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
 </div>
 <BR>
-<h3>Contatos </h3>
+<h3>Experiência </h3>
+<BR>
+<h4>Estudo </h4>
+<BR>
+<h5>Contato </h5>
